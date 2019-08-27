@@ -1,7 +1,7 @@
 # Autolib-electric-car-IP-WEEK-3
 
 ##  Question
-**To investigate a claim about the blue cars from the provided Autolib dataset.
+** ### To investigate a claim about the blue cars from the provided Autolib dataset.
 
 ### An example of claim to test would be "Is the number of Bluecars taken in area X different than in area Y? Is it greater in area X than in area Z? Etc”. The selected periods of interest be either weekdays or weekends but not a mix of both. You can also consider postal codes 75015 vs 75017 to some of the areas of interest. 
 
@@ -68,4 +68,27 @@ Carrying out linear regression
 Identifying z test and p value
 Drawing a conclusion for your hypothesis accepting or regecting it
 *
+### Screen shots
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/histo.PNG)
+#### PairPlot
+
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/pie.PNG)
+#### PieChart
+
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/LineGraph.PNG)
+#### LineChart
+
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/scatter.PNG)
+#### Scatter Plot
+
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/heatmap.PNG)
+#### Heatmap
+
+![Image of Household sizes](https://github.com/codybaraks/Autolib-electric-car-IP-WEEK-3/blob/master/correlationmatrics.PNG)
+#### Correlation Matrix
+
+
+
+
+
 
